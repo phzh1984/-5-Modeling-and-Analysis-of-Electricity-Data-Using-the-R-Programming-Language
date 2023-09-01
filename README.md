@@ -1,4 +1,4 @@
-# -5-Modeling-and-Analysis-of-Electricity-Data-Using-the-R-Programming-Language
+# Modeling and Analysis of Electricity Data Using the R Programming Language
 
 This project deals with electricity usage data for 241 households in New Zealand collected in 2009. The data is for a single 24-hour period and has been sampled every 30 minutes. Hence there are 48 measures per household. The first entry is at 12:30am, the second at 1am, and so on.
 
